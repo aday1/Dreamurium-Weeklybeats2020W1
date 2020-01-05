@@ -18,6 +18,7 @@ DAW: Bitwig Studio 3.x - Some bit crushing and some compressors
 Visuals:
 GLSL Sandbox and some tweaks in ShaderLoader.dll (+ Resolume 5)
 'ripped/modified/Code available here - Code left in tact for crediting'
+- Bitwig Sequenced MIDI Over Ethernet to Trigger Resolume5 --- (I should do a video about that sometime)
 https://github.com/aday1/WeeklyBeats-Week1/GLSL/
 
 

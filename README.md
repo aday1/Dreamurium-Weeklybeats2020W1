@@ -23,3 +23,8 @@ https://github.com/aday1/WeeklyBeats-Week1/GLSL/
 
 
 https://youtu.be/6jodTW2EVuo (Schedule Release Jan 6 2020)
+
+
+Feels:
+Rushed some edges ... Considering this a practice session -- Should be doing the A/V side by side in the inception process....
+Cut corners, rush stuff, forget quantization.... real life to deal with too.. ok ok ok lets go

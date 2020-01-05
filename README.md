@@ -1,4 +1,4 @@
-# WeeklyBeats-Week1
+# WeeklyBeats-Week1 - The Dreamurium
 Week1 of Weeklybeats 2020
 
 About 4 days of work (Maybe about 14hours?)

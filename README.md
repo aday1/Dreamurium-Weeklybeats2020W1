@@ -22,7 +22,7 @@ GLSL Sandbox and some tweaks in ShaderLoader.dll (+ Resolume 5)
 https://github.com/aday1/WeeklyBeats-Week1/GLSL/
 
 
-https://youtu.be/6jodTW2EVuo (Schedule Release Jan 6 2020)
+https://www.youtube.com/watch?v=Vpf2_N97fSs (Schedule Release Jan 6 2020)
 
 
 Feels:
